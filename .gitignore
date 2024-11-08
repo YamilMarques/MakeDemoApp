@@ -35,3 +35,13 @@ google-services.json
 # Build folder
 app/build
 app/gen
+gen
+.project
+.settings/
+app/.classpath
+compiled/
+generated/
+intermediates/
+builds
+
+
