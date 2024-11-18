@@ -20,3 +20,10 @@ Build it
 
 Follow the script instructions. The APK built will be located in `/builds`.
 
+
+## Make Building requirements ##
+
+*ANDROID_PLATFORM* variable should be set during make:
+`make ANDROID_PLATFORM=~/Android/sdk/platforms/android-34/android.jar`
+
+Make version recomended: 4.3 GNU
